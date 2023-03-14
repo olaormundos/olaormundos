@@ -4,9 +4,9 @@
 
 ### Welcome to my Github page!
 
-I am from São Paulo, Brazil, and currently live in Mogi das Cruzes. I have many passions, from karate to music and literature. 
+I am from São Paulo, Brazil, and currently live in Mogi das Cruzes. I have many passions, from games to music and literature. 
 
-I am a Front End Developer who loves seeing the blank screen being populated step by step by the code I create. I am a developer since 2020, and I have specialized in creating responsive, accessible and light pages. I am moved by the desire to learn, and I get great satisfaction on teaching what I know.
+I am a Back End Developer who loves seeing the blank screen being populated step by step by the code I create. I am a developer since 2013, and I have specialized in creating the websites from PHP and Wordpress. I am moved by the desire to learn, and I get great satisfaction on teaching what I know.
 
 <br>
 
@@ -50,7 +50,7 @@ I am a Front End Developer who loves seeing the blank screen being populated ste
 <br>
 
 ## More about me
-:metal: Random fact: **I played the drums in a band for nearly 9 years**
+:metal: Random fact: **Watch Harry Potter Every Weekend**
 
 👨‍💻 You can see some of my work at: <!--[https://marcelluscaio.github.io/portfolio/](https://marcelluscaio.github.io/portfolio/)-->
 
