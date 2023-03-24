@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I am Vanderlei da Silva Ormundo <br /> ( "Olaormundos" )</h1>
-
-
+<h1 align="center">Hi, I am Vanderlei da Silva Ormundo <br /> ( "Olaormundos" ) <div align="center"><img src="https://user-images.githubusercontent.com/77418876/227609031-2a4ae575-0207-48eb-bc58-4aabf72a6577.gif" alt="html5" width="200" height="200"/></div> </h1>
 
 ### Welcome to my Github page!
 
